@@ -1,0 +1,4 @@
+# Package Artifacts file for antlr4
+#   in this case only the directory antlr4 is required
+antlr4
+

@@ -1,0 +1,3 @@
+#!/bin/bash
+export ANTLR4_INSTALL_DIR="$(bootstrapinstalldir ${BOOTSTRAP_BUILD_TARGET_SCOPE})"
+
